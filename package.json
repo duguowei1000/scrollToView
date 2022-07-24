@@ -1,9 +1,10 @@
 {
-  "name": "scroll2view",
+  "name": "scroll_to_view",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start":"just use html ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
